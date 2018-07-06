@@ -3,14 +3,14 @@
 This is the third project of FEND Scholarship Program, provided by Udacity,
 in collaboration with Google.
 
-## Brief Info on the Game
+## Brief Info about the Game
 
 This card-matching game tests the player's memory as they attempt to match two
 cards in a deck of sixteen cards. If two clicked cards don't match, they flip back to their original closed positions, so the players should try their best to remember which specific card is placed where to eventually match them all!
 
-## How to play
+## How to Play
 
-- Access the game via [here](https://github.com/acun/Memory-Game)
+- Access the game via [here](https://htmlpreview.github.io/?https://github.com/acun/Memory-Game/blob/master/index.html)
 - Click on a card to flip it over and reveal its symbol
 - Click on another card to see if it's a match with the first card
   - if not, the cards will return back to their original, closed state.
